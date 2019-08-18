@@ -2,7 +2,8 @@ package homeStudy02;
 import java.util.Scanner ;
 
 public class ScoreCalc {
-
+	// 마지막 + 기호가 생략되지 않습니다. 
+	
 	public static void main(String[] args) {
 	
 	Scanner scanner = new Scanner (System.in);
