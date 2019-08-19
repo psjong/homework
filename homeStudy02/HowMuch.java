@@ -19,7 +19,7 @@ public class HowMuch {
 		System.out.println("비싸요, 10% 깍아주세요.");
 		
 		int eval = total - (total/10) ;
-		System.out.printf("그럼 %s원만 주세요. %n", eval);
+		System.out.printf("그럼 %s원만 주세요.", eval);
 		
 	}
 

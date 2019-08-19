@@ -6,8 +6,9 @@ public class ScoreCalc {
 	
 	public static void main(String[] args) {
 	
-	Scanner scanner = new Scanner (System.in);
-	
+		Scanner scanner = new Scanner (System.in);
+		
+		
 	String sequence = "";
 	int serise = 0 , avge = 0 , count = 0 ;
 
@@ -26,3 +27,5 @@ public class ScoreCalc {
 	System.out.printf("현재까지의 누적값은  %s= %d 이고, 평균은 %d 입니다.", sequence , serise , avge);
 	}
 }
+
+
